@@ -5,12 +5,12 @@ feature:
   image_webp: images/about/about-business-man.webp
   title: Carreira Profissional em Análise de Sistemas, Requisitos e Inteligência do
     Negócio (BI).
-  content: "Atuar em análise e desenvolvimento de sistemas, com habilidades para exercer
-    atividades de levantamento de requisitos, gestão de projetos, especificação e
-    desenvolvimento, documentação, implantação, migração, testes e manutenção. \nAnálise
-    de dados, desenho de soluções completas em BI, desenvolver soluções ETL, migração
-    e implantação de serviços de integração de dados, criação e manutenção de painéis,
-    relatórios e dashboards para tomada de decisão.\n"
+  content: "Sólida atuação em análise e desenvolvimento de sistemas, com habilidades
+    para exercer atividades de levantamento de requisitos, gestão de projetos, especificação,
+    manutenção, desenvolvimento, documentação, implantação, migração e testes de sistemas
+    e aplicações. \nAnálise e configurações de dados, desenvolvimento de soluções
+    ETL, migração e implantação de serviços de integração de dados, criação e manutenção
+    de painéis, relatórios e dashboards para tomada de decisão.\n"
   feature_item:
   - title: Formação Acadêmica
     icon: ti-world
@@ -18,7 +18,7 @@ feature:
       Em 2018 - Pós-Graduação Lato Sensu em Eng. da Qualidade de Software - Senac São Paulo.
       Em 2010 - Pós-Graduação em Gestão da Tecnologia da Informação - FGV Brasília.
       Em 2007 - Gradução em Tecnologia em Sistemas para a Internet - Unicesp Brasília.
-  - title: Easy Customization
+  - title: Certificados e Cursos
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
