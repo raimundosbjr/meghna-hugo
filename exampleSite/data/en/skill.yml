@@ -7,6 +7,8 @@ skill:
     durante minha atuação profissional.
   image: images/about/company-growth.webp
   skill_item:
+  - name: Mapeamento de Processos - BPMN
+    percent: 80%
   - name: Analista de Sistemas
     percent: 90%
   - name: Inteligência de Negócio - BI
