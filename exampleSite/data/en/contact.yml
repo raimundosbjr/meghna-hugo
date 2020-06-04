@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: Meus Contatos
-  subtitle: Endereço, telefones e E-mail.
+  subtitle: Endereço, Telefones e E-mail.
   content: Abaixo, meus contatos para facilitar a nossa comunicação.
   form_action: "#"
   contact_details:
