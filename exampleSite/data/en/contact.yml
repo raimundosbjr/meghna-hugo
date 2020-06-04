@@ -6,7 +6,7 @@ contact:
   content: Abaixo, meus contatos e redes sociais.
   form_action: "#"
   contact_details:
-  - icon: Endereço
+  - icon: ti-location-pin
     info: Rua 3 Norte, Lote 01, Residêncial Morada Nova
   - icon: Celular
     info: 'Nº: +55-61-98188-7730'
