@@ -4,7 +4,7 @@ contact:
   title: Meus Contatos
   subtitle: Endereço, Telefones e E-mail.
   content: Abaixo, meus contatos para facilitar a nossa comunicação.
-  form_action: "#"
+  form_action: ''
   contact_details:
   - icon: ti-location-pin
     info: Rua 3 Norte, Lote 01, Residêncial Morada Nova
