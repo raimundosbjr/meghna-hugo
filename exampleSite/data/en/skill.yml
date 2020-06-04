@@ -3,14 +3,14 @@ skill:
   enable: true
   title: Our Skills
   subtitle: Principais Habilidades e Ferramentas
-  content: Relaciono as pirincipias habilidades e proficiências que apresento, consolidadas
-    durante minha carreia profissional.
+  content: Relaciono as principias habilidades e proficiências que apresento, consolidadas
+    durante minha atuação profissional.
   image: images/about/company-growth.webp
   skill_item:
   - name: Analista de Sistemas
     percent: 90%
   - name: Inteligência de Negócio - BI
-    percent: 70%
+    percent: 75%
   - name: Analista de Requisitos
     percent: 80%
   - name: Analista de Dados - SQL
