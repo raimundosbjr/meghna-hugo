@@ -15,7 +15,7 @@ skill:
     percent: 75%
   - name: Analista de Requisitos - UML e RUP
     percent: 80%
-  - name: Analista de Dados - SQL
-    percent: 95%
+  - name: Analista de Dados - PL/SQL e T-SQL
+    percent: 90%
   - name: Desenvolvimento ETL
     percent: 70%
