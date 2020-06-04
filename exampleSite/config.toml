@@ -27,7 +27,7 @@ name = "Experiências/Habilidades"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "Portfólio"
 weight = 3
 [[menu.main]]
 URL = "pricing"
