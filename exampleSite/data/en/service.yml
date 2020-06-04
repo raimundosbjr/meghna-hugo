@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Experiências/Habilidades
+  title: Experiências
   service_item:
   - name: WordPress Theme
     icon: ti-world
