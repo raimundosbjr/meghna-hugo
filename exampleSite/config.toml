@@ -23,7 +23,7 @@ name = "Perfil"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "Experiências/Habilidades"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
