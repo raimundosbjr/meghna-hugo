@@ -24,7 +24,7 @@ weight = 4
 author = "Raimundo Saraiva B. Jr"
 description = "Meu Portfólio"
 google_analitycs_id = ""
-logo = "images/logo"
+logo = "images/logo.png"
 post_share = true
 [params.map]
 enable = false
