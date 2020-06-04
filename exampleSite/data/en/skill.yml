@@ -17,5 +17,5 @@ skill:
     percent: 80%
   - name: Analista de Dados - PL/SQL e T-SQL
     percent: 90%
-  - name: Desenvolvimento ETL
+  - name: Desenvolvimento ETL - ODI e SSIS
     percent: 70%
