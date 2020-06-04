@@ -5,8 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Meu Portfólio
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: "Seja bem-vindo! \nVou apresentar a seguir, minhas qualificações profissionais
+    em tecnologia da Informação e também, meu novos desafios em ciência de dados,
+    onde sigo em process de formação na Data science Academy! "
   button:
     enable: true
     label: Descubra
