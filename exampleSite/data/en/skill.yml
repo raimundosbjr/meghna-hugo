@@ -3,8 +3,8 @@ skill:
   enable: true
   title: Habilidades e Ferramentas
   subtitle: Principais Habilidades e Ferramentas
-  content: Relaciono as principias habilidades e proficiências que apresento, consolidadas
-    durante minha atuação profissional.
+  content: Relaciono a seguir, as principais habilidades e ferramentas com seu respectivo
+    grau de capacitação e domínio.
   image: images/about/company-growth.webp
   skill_item:
   - name: Mapeamento de Processos - BPMN
