@@ -39,7 +39,7 @@ name = "Blog"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 7
 [params]
 author = "Raimundo Saraiva B. Jr"
