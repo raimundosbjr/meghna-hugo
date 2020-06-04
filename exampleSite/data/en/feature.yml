@@ -15,23 +15,23 @@ feature:
   - title: Formação Acadêmica
     icon: ti-world
     content: |-
-      Pós-Graduação Lato Sensu Eng. da Qualidade de Software - Senac SP - (2018).|
-      Pós-Graduação Gestão da Tecnologia da Informação - FGV Bsb - (2010).|
-      Gradução Tecnologia em Sistemas para a Internet - Unicesp Bsb - (2007).|
+      Pós-Graduação Lato Sensu Eng. da Qualidade de Software - Senac SP - (2018).|-
+      Pós-Graduação Gestão da Tecnologia da Informação - FGV Bsb - (2010).|-
+      Gradução Tecnologia em Sistemas para a Internet - Unicesp Bsb - (2007).|-
   - title: Certificados e Cursos
     icon: ti-panel
     content: |
-      Scrum Foundation Professional Certificate - SFPC - Bsb - (2019).|
-      DevOps Essentials Professional Certificate - DEPC - Bsb - (2019).|
+      Scrum Foundation Professional Certificate - SFPC - Bsb - (2019).|-
+      DevOps Essentials Professional Certificate - DEPC - Bsb - (2019).|-
   - title: Análise de Dados
     icon: ti-stats-up
     content: |-
-      Big Data Fundamentos 2.0 – Data Science Academy (2020).|
-      Power BI Completo – do Básico ao Avançado – Udemy. (2020).|
-      Inteligência Artificial Fundamentos – Data Science Academy (2020).|
-      Introdução a Ciência de Dados 2.0 – Data Science Academy (2020).|
-      Microsoft Power BI para Data Sciense – Data Science Academy (2020).|
-      Formação Cientista de Dados – Data Science Academy (360 hs) em andamento (previsão 2021).|
+      Big Data Fundamentos 2.0 – Data Science Academy (2020).|-
+      Power BI Completo – do Básico ao Avançado – Udemy. (2020).|-
+      Inteligência Artificial Fundamentos – Data Science Academy (2020).|-
+      Introdução a Ciência de Dados 2.0 – Data Science Academy (2020).|-
+      Microsoft Power BI para Data Sciense – Data Science Academy (2020).|-
+      Formação Cientista de Dados – Data Science Academy (360 hs) em andamento (previsão 2021).|-
   - title: Comunicação
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
