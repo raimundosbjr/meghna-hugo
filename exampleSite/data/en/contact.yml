@@ -8,8 +8,8 @@ contact:
   contact_details:
   - icon: Endereço
     info: Rua 3 Norte, Lote 01, Residêncial Morada Nova
-  - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
+  - icon: Celular
+    info: 'Nº: +55-61-98188-7730'
   - icon: ti-printer
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
