@@ -2,8 +2,8 @@
 contact:
   enable: true
   title: Meus Contatos
-  subtitle: Contact Details
-  content: Abaixo, meus contatos e redes sociais.
+  subtitle: Endereço, telefones e E-mail.
+  content: Abaixo, meus contatos para facilitar a nossa comunicação.
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
