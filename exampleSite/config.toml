@@ -17,35 +17,14 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contanto"
-weight = 7
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "portfolio"
-name = "Portfólio"
-weight = 3
-[[menu.main]]
-URL = "services"
-name = "Competências"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "Perfil"
-weight = 1
+[menu.main]
+name = "Skills"
+weight = 4
 [params]
 author = "Raimundo Saraiva B. Jr"
 description = "Meu Portfólio"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/logo"
 post_share = true
 [params.map]
 enable = false
