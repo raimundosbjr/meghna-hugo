@@ -46,7 +46,7 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "Raimundo Saraiva B. Jr"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analitycs_id = ""
 logo = "images/logo.png"
