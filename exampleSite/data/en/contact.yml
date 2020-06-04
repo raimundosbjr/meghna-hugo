@@ -8,7 +8,7 @@ contact:
   contact_details:
   - icon: ti-location-pin
     info: Rua 3 Norte, Lote 01, Residêncial Morada Nova
-  - icon: Celular
+  - icon: ti-mobile
     info: 'Nº: +55-61-98188-7730'
   - icon: Residencial
     info: 'Nº: +55-61-3970-3522'
