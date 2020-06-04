@@ -5,9 +5,15 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Meu Portfólio
-  content: "Seja bem-vindo! \nVou apresentar a seguir, minhas qualificações profissionais
-    em tecnologia da Informação e também, meus novos desafios em ciência de dados,
-    onde sigo em processo de formação na DSA - Data science Academy."
+  content: "Seja bem-vindo! \n\nMe chamo Raimundo Saraiva Barreto Jr, natural de Fortaleza
+    - Ceará, tenho 47 anos, sou casado e tenho um filho de 10 anos, chamado Vitor.
+    \n\nAtuamente, estou em processo de transição de carreira, realizando estudos
+    intesivos em ferramentas de análises de dados como R e Microsoft Azure Machine
+    Learnig. A formação Cientista de Dados também tem abrangência em análise Big Data
+    com Python e Spark e em Engenharia de Dados com Hadoop. \n\nVou apresentar a seguir,
+    minhas qualificações profissionais em tecnologia da Informação e também, meus
+    novos desafios em ciência de dados, no processo de formação de Cientista de Dados
+    pela DSA - Data science Academy.\n\nMuito Obrigado!"
   button:
     enable: true
     label: Descubra
