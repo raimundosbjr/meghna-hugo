@@ -9,7 +9,7 @@ skill:
   skill_item:
   - name: Analista de Sistemas
     percent: 90%
-  - name: Analysis
+  - name: Inteligência de Negócio - BI
     percent: 70%
   - name: Design
     percent: 80%
