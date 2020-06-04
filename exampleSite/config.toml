@@ -39,7 +39,7 @@ name = "Competências"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "Carreira"
+name = "Perfil"
 weight = 1
 [params]
 author = "Raimundo Saraiva B. Jr"
