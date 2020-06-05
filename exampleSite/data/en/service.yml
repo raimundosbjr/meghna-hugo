@@ -70,6 +70,6 @@ service:
     icon: ti-pulse
     content: "Mapeamento e regras de negócios - BPMN.\n\nCoordenador do processo de
       recadastramento de assistidos.\n\nSuporte ao SGBD (SQL Server/Oracle) para manuenções
-      e integrações ERP. \n\nElaboração de plano estratégico de negócio, com elaboração
-      de ações e soluções necessárias.\n\nGestão das atividades de correção e manutenção
-      dos sistemas, geração de testes, documentação e manuais operacionais. "
+      e integrações ERP. \n\nElaboração plano estratégico de negócio, com ações e
+      soluções necessárias.\n\nGestão das atividades de correção e manutenção dos
+      sistemas, geração de testes, documentação e manuais operacionais. "
