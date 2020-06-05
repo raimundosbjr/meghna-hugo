@@ -39,13 +39,13 @@ service:
 
       Levantamento e especificação de requisitos.
 
-      Desenv. de rotinas ETL Sybase e SQL Server.
+      Desenv. de rotinas ETL Sybase/SQL Server.
 
       Desenv. painéis, dashboards e cubos em Tableau.
 
-      Manipulação dados - DDL e DML - Sybase e SQL Server.
+      Desenv. procedures e functions - Sybase/SQL Server.
 
-      Desenv de procedures e functions - Sybase e SQL Server.
+      Manipulação dados - DDL e DML - Sybase/SQL Server.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
