@@ -3,19 +3,18 @@ skill:
   enable: true
   title: Habilidades
   subtitle: Principais Habilidades e Ferramentas
-  content: Relaciono a seguir, as principais habilidades e ferramentas com seu respectivo
-    grau de capacitação e domínio.
+  content: As principais habilidades de trabalho e ferramentas de utilização e domínio.
   image: images/about/company-growth.webp
   skill_item:
   - name: Mapeamento de Processos - BPMN
-    percent: 80%
-  - name: Analista de Sistemas - ERP
+    percent: 70%
+  - name: Análise de Sistemas - ERP
+    percent: 95%
+  - name: Inteligência de Negócios - BI
     percent: 90%
-  - name: Inteligência de Negócio - BI
-    percent: 75%
-  - name: Analista de Requisitos - UML e RUP
-    percent: 80%
-  - name: Analista de Dados - PL/SQL e T-SQL
+  - name: Análise de Requisitos - UML e RUP
+    percent: 85%
+  - name: Análise de Dados - PL/SQL e T-SQL
     percent: 90%
   - name: Desenvolvimento ETL - ODI e SSIS
-    percent: 70%
+    percent: 75%
