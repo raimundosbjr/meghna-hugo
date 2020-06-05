@@ -21,17 +21,17 @@ service:
       (2016/2019)
     icon: ti-layout
     content: |-
-      Manutenção de Sistemas ERP.
+      Manutenção de sistemas ERP.
 
-      Levantamento e Especificação de Requisitos.
+      Desenv. de rotinas ETL - Oracle ODI.
 
-      Desenvolvimento de rotinas ETL - Oracle ODI.
+      Manipulação dados - DDL e DML - Oracle.
 
-      Maniupulação de Dados - DDL e DML - Oracle.
+      Desenv de procedures e functions - Oracle.
 
-      Desenvolvimento de Procedures e Functions - Oracle.
+      Levantamento e especificação de requisitos.
 
-      Criação e manutenção de Painéis e cubos em Power BI.
+      Desenv. painéis, pashboards e cubos em Power BI.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
