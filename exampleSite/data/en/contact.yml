@@ -15,4 +15,4 @@ contact:
   - icon: ti-email
     info: 'Email: raimundosbjr@outlook.com'
   map:
-    enable: true
+    enable: false
