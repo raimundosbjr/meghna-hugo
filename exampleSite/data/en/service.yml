@@ -68,9 +68,9 @@ service:
       Mapeamento de processos e regras de Negócio - BPMN.
   - name: FUNCEF Fund. Econ. Federais - Analista de Sistemas/Negócios Jr (2004/2010)
     icon: ti-pulse
-    content: "Mapeamento de processos e regras de negócios - BPMN\n\nCoordenador do
-      processo de recadastramento de assistidos.\n\nElaboração de plano estratégico
-      de negócio, análisar contextos com elaboração de ações e soluções necessárias.\n\nGestão
+    content: "Mapeamento e regras de negócios - BPMN.\n\nCoordenador do processo de
+      recadastramento de assistidos.\n\nElaboração de plano estratégico de negócio,
+      análisar contextos com elaboração de ações e soluções necessárias.\n\nGestão
       das atividades de correção e manutenção dos sistemas, geração de testes, documentação
       e manuais operacionais. \n\nSuporte ao SGBD (SQL Server/Oracle) com criação
       de artefatos para integrações ERP. "
