@@ -37,11 +37,11 @@ service:
     content: |-
       Manutenção de sistemas ERP.
 
+      Desenv. rotinas ETL Sybase/SQL Server.
+
       Levantamento e especificação de requisitos.
 
-      Desenv. de rotinas ETL Sybase/SQL Server.
-
-      Desenv. painéis, dashboards e cubos em Tableau.
+      Desenv. painéis, dashboards e cubos - Tableau.
 
       Desenv. procedures e functions - Sybase/SQL Server.
 
