@@ -8,9 +8,9 @@ banner:
   content: "Seja bem-vindo! \n\nMe chamo Raimundo Saraiva Barreto Jr, natural de Fortaleza
     - Ceará, tenho 47 anos, sou casado e tenho um filho de 10 anos, chamado Vitor.
     \n\nAtualmente, estou em processo de transição de carreira, realizando estudos
-    intesivos em ferramentas de análises de dados, como R e Microsoft Azure Machine
+    intensivos em ferramentas de análises de dados, como R e Microsoft Azure Machine
     Learnig. A formação Cientista de Dados também tem abrangência em análise Big Data
-    com Python e Spark e em Engenharia de Dados com Hadoop. \n\nMuito Obrigado!"
+    com Python e Spark e em Engenharia de Dados com Hadoop. \n\nMuito Obrigado."
   button:
     enable: true
     label: Descubra
