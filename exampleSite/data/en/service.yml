@@ -6,17 +6,17 @@ service:
   - name: LIFE Tecnologia e Consultoria - Analista de Requisitos Sênior (2019/2020)
     icon: ti-world
     content: |-
-      Metodologia SCRUM.
+      Metodologia Scrum.
 
       Versionamento Git/Github.
 
       Casos de Uso - Padrão UML.
 
-      Mapeamento de regras de Negócio - BPMN.
+      Mapeamento e regras de Negócio - BPMN.
 
-      Levantamento e especificação de Requisitos.
+      Levantamento e especificação de requisitos.
 
-      Documentação Técnica e Gerenciamento de Mudanças.
+      Documentação técnica e gerenciamento de mudanças.
   - name: FUNCEF Fundação dos Economiários Federais - Analista de Sistemas Sênior
       (2016/2019)
     icon: ti-layout
