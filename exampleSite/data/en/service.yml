@@ -34,16 +34,10 @@ service:
       Desenv. painéis, dashboards e cubos em Power BI.
   - name: Fundação SISTEL de Seguridade Social - Analista de Sistemas Sênior (2013/2016)
     icon: ti-blackboard
-    content: |-
-      Manutenção de sistemas ERP.
-
-      Desenv. rotinas ETL Sybase/SQL Server.
-
-      Desenv. painéis e dashboards  - Tableau.
-
-      Desenv. procedures e functions - Sybase/SQL Server.
-
-      Manipulação dados DDL e DML e Migração de SGDB - Sybase/SQL Server.
+    content: "Manutenção de sistemas ERP.\n\nManipulação dados DDL e DML e \n\nMigração
+      de SGDB - Sybase/SQL Server.\n\nDesenv. painéis e dashboards  - Tableau.\n\nDesenv.
+      rotinas ETL em Sybase/SQL Server.\n\nDesenv. procedures e functions - Sybase/SQL
+      Server."
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
