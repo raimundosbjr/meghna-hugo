@@ -5,13 +5,11 @@ feature:
   image_webp: images/about/about-business-man.webp
   title: Carreira Profissional em Análise de Sistemas, Requisitos e Inteligência de
     Negócio (BI).
-  content: "Sólida atuação em análise e desenvolvimento de sistemas, com habilidades
-    para exercer atividades de levantamento de requisitos, gestão de projetos de TI,
-    especificação, documentação, manutenção, desenvolvimento, implantação, migração
-    e testes em sistemas e aplicações. \nAnálise e configurações de dados, desenvolvimento
-    de soluções ETL, migração e implantação de serviços de integração de dados. Soluções
-    para inteligência de negócio com a criação e manutenção de painéis, geração de
-    relatórios e dashboards gerenciais.\n"
+  content: Analisar e projetar sistemas, levantar e especificar requisitos e regras
+    de negócio. Analisar, configurar, modelar e manipular dados, bem como desenvolver
+    soluções ETL, migrar e implantar serviços para integração de dados. Atuar em Business
+    Intelligence para converter de dados em informações relevantes na criação e manutenção
+    de painéis, relatórios e dashboards.
   feature_item:
   - title: Formação Acadêmica
     icon: ti-world
