@@ -43,7 +43,7 @@ service:
 
       Desenv. procedures e functions - Sybase/SQL Server.
 
-      Manipulação dados - DDL e DML - Sybase/SQL Server.
+      Manipulação dados DDL e DML e Migração de SGDB - Sybase/SQL Server.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
