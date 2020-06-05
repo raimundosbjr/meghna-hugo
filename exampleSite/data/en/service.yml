@@ -61,11 +61,11 @@ service:
 
       Casos de Uso - Padrão UML e RUP.
 
-      Mapeamento e regras de Negócio - BPMN.
-
       Levantamento e especificação de requisitos.
 
       Documentação técnica e gerenciamento de mudanças.
+
+      Mapeamento de processos e regras de Negócio - BPMN.
   - name: FUNCEF Fundação dos Economiários Federais - Analista de Sistemas/Negócios
       Jr (2016/2019)
     icon: ti-pulse
