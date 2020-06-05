@@ -5,11 +5,9 @@ feature:
   image_webp: images/about/about-business-man.webp
   title: Carreira Profissional em Análise de Sistemas, Requisitos e Inteligência de
     Negócio (BI).
-  content: Analisar e projetar sistemas, levantar e especificar requisitos e regras
-    de negócio. Analisar, configurar, modelar e manipular dados, bem como desenvolver
-    soluções ETL, migrar e implantar serviços para integração de dados. Atuar em Business
-    Intelligence para converter dados em informações relevantes na criação e manutenção
-    de painéis, relatórios e dashboards.
+  content: |-
+    Analisar e projetar sistemas, levantar e especificar requisitos e regras de negócio. Planejar e coordenar a execução de projetos, seguindo padrões de metodologia ágil - Scrum.
+    Analisar, configurar, modelar e manipular dados, bem como desenvolver soluções ETL, migrar e implantar serviços para integração de dados. Atuar em Business Intelligence para converter dados em informações relevantes na criação e manutenção de painéis, relatórios e dashboards.
   feature_item:
   - title: Formação Acadêmica
     icon: ti-world
