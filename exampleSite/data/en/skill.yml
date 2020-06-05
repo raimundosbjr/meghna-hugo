@@ -7,14 +7,14 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Mapeamento de Processos - BPMN
-    percent: 70%
+    percent: 65%
   - name: Análise de Sistemas - ERP
     percent: 95%
   - name: Inteligência de Negócios - BI
     percent: 90%
   - name: Análise de Requisitos - UML e RUP
     percent: 85%
-  - name: Análise de Dados - PL/SQL e T-SQL
+  - name: Manipulação de Dados - PL/SQL e T-SQL
     percent: 90%
   - name: Desenvolvimento ETL - ODI e SSIS
     percent: 75%
