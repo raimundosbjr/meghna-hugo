@@ -52,10 +52,20 @@ service:
       Desenvolvimento dos sistemas ERP - DOTNet.
 
       Desenv. de procedures e functions - SQL Server.
-  - name: Apps Development
+  - name: HUMANO Inteligência Digital - Analista de Requisitos Pleno (2010/2010)
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Metodologia Scrum.
+
+      Versionamento Git/Github.
+
+      Casos de Uso - Padrão UML e RUP.
+
+      Mapeamento e regras de Negócio - BPMN.
+
+      Levantamento e especificação de requisitos.
+
+      Documentação técnica e gerenciamento de mudanças.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
