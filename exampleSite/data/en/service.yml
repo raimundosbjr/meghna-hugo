@@ -38,10 +38,20 @@ service:
       de SGDB - Sybase/SQL Server.\n\nDesenv. painéis e dashboards  - Tableau.\n\nDesenv.
       rotinas ETL em Sybase/SQL Server.\n\nDesenv. procedures e functions - Sybase/SQL
       Server."
-  - name: Graphic Design
+  - name: GEAP Fundação de Seguridade Social - Analista de Tecnologia Pleno (2010/2013)
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Metodoligia Scrum
+
+      Desenv de procedures e functions - Oracle.
+
+      Levantamento e especificação de requisitos.
+
+      Manipulação dados DDL e DML - SQL Server.
+
+      Desenvolvimento dos sistemas ERP - DOTNet.
+
+      Desenv. de procedures e functions - SQL Server.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
