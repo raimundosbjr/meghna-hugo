@@ -69,6 +69,6 @@ service:
   - name: FUNCEF Fund. Econ. Federais - Analista de Sistemas/Negócios Jr (2004/2010)
     icon: ti-pulse
     content: "Mapeamento e regras de negócios - BPMN.\n\nCoordenador geral do recadastramento
-      assistidos.\n\nSuporte ao SGBD (SQL Server/Oracle) para manuenções e integrações
-      ERP. \n\nElaboração plano estratégico de negócio, com ações e soluções necessárias.\n\nGestão
-      das manutenções, testes, documentações e manuais operacionais do ERP. "
+      assistidos.\n\nElaboração plano estratégico com ações e soluções necessárias.\n\nSuporte
+      ao SGBD (SQL Server/Oracle) para manuenções e integrações ERP. \n\nGestão das
+      manutenções, testes, documentações e manuais operacionais do ERP. "
