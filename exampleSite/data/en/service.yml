@@ -6,6 +6,8 @@ service:
   - name: LIFE Tecnologia e Consultoria - Analista de Requisitos Sênior (2019/2020)
     icon: ti-world
     content: |-
+      Metodologia SCRUM.
+
       Versionamento Git/Github.
 
       Casos de Uso - Padrão UML.
