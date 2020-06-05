@@ -10,7 +10,7 @@ service:
       Casos de Uso - Padrão UML.
       Mapeamento de regras de Negócio - BPMN.
       Levantamento e especificação de Requisitos.
-      Documentação Técnica e Gerenciamento de Mudanção.
+      Documentação Técnica e Gerenciamento de Mudanças.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
