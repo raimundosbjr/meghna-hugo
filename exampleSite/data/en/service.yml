@@ -32,10 +32,20 @@ service:
       Levantamento e especificação de requisitos.
 
       Desenv. painéis, dashboards e cubos em Power BI.
-  - name: Media &amp; Advertisement
+  - name: Fundação SISTEL de Seguridade Social - Analista de Sistemas Sênior (2013/2016)
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Manutenção de sistemas ERP.
+
+      Levantamento e especificação de requisitos.
+
+      Desenv. de rotinas ETL Sybase e SQL Server.
+
+      Desenv. painéis, dashboards e cubos em Tableau.
+
+      Manipulação dados - DDL e DML - Sybase e SQL Server.
+
+      Desenv de procedures e functions - Sybase e SQL Server.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
