@@ -71,5 +71,5 @@ service:
     content: "Mapeamento e regras de negócios - BPMN.\n\nCoordenador geral do recadastramento
       assistidos.\n\nSuporte ao SGBD (SQL Server/Oracle) para manuenções e integrações
       ERP. \n\nElaboração plano estratégico de negócio, com ações e soluções necessárias.\n\nGestão
-      das atividades de correção e manutenção dos sistemas, geração de testes, documentação
-      e manuais operacionais. "
+      das atividades de manutenção, testes, documentação e manuais operacionais do
+      ERP. "
