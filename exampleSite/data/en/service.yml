@@ -3,10 +3,14 @@ service:
   enable: true
   title: Experiências
   service_item:
-  - name: WordPress Theme
+  - name: Life Tecnologia e Consultoria - Analista de Requisitos Sênior (2019/2020)
     icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Versionamento Git/Github.
+      Casos de Uso - Padrão UML.
+      Mapeamento de regras de Negócio - BPMN.
+      Levantamento e especificação de Requisitos.
+      Documentação Técnica e Gerenciamento de Mudanção.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
